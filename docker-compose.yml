@@ -1,0 +1,4 @@
+mysampleapp:
+  build: sampleapp
+  ports:
+    - "4567:4567"
